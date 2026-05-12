@@ -94,7 +94,7 @@ a{text-decoration:none;color:inherit}
 
 /* STATS */
 #stats{background:var(--bg2);border-top:1px solid var(--border);border-bottom:1px solid var(--border)}
-.sg{display:grid;grid-template-columns:repeat(4,1fr)}
+.sg{display:grid;grid-template-columns:repeat(2,1fr);max-width:600px;margin:0 auto}
 .si2{padding:clamp(28px,4vw,52px) 16px;text-align:center;position:relative}
 .si2+.si2::before{content:'';position:absolute;left:0;top:22%;bottom:22%;width:1px;background:var(--border)}
 .snum{font-family:var(--hf);font-size:clamp(40px,5.5vw,72px);font-weight:900;color:var(--red);line-height:1;letter-spacing:-.025em}
@@ -147,7 +147,7 @@ footer address{font-style:normal;font-size:13px;color:var(--muted);line-height:1
 @media(max-width:900px){
   .svc-grid{grid-template-columns:repeat(2,1fr)}
   .ab-g{grid-template-columns:1fr}
-  .sg{grid-template-columns:repeat(2,1fr)}
+  .sg{grid-template-columns:repeat(2,1fr);max-width:100%}
   .ft{grid-template-columns:1fr 1fr}
 }
 @media(max-width:640px){

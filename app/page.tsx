@@ -225,14 +225,6 @@ export default function Home() {
               <div><span className="snum" data-t="5">0</span><span className="ssuf">★</span></div>
               <span className="slbl">avaliação no Google</span>
             </div>
-            <div className="si2 r" data-d="4">
-              <div><span className="snum" data-t="120">0</span><span className="ssuf"> dias</span></div>
-              <span className="slbl">garantia nas peças</span>
-            </div>
-            <div className="si2 r" data-d="6">
-              <div><span className="snum" data-t="30">0</span><span className="ssuf"> dias</span></div>
-              <span className="slbl">garantia mão de obra</span>
-            </div>
           </div>
         </div>
       </section>
@@ -246,7 +238,7 @@ export default function Home() {
                 <div className="lbl">Nossa história</div>
                 <h2>Há 10 anos fazendo seu<br /><em>veículo voltar à vida</em></h2>
               </div>
-              <p className="ab-txt">Cuidar do seu carro é cuidar da sua segurança, da sua rotina e da sua tranquilidade. E é exatamente com esse compromisso que o Centro Automotivo Terra Preta atua há mais de 9 anos em Mairiporã.</p>
+              <p className="ab-txt">Cuidar do seu carro é cuidar da sua segurança, da sua rotina e da sua tranquilidade. E é exatamente com esse compromisso que o Centro Automotivo Terra Preta atua há mais de 10 anos em Mairiporã.</p>
               <p className="ab-txt">Aqui, cada veículo é tratado com cuidado e responsabilidade, como se fosse nosso. Trabalhamos com serviços completos de mecânica e auto elétrica, sempre prezando pela qualidade, transparência no diagnóstico e preços justos, sem surpresas no final.</p>
               <p className="ab-txt" style={{ marginBottom: 30 }}>Seja para uma revisão, manutenção preventiva ou um reparo específico, você pode sempre contar com a gente.</p>
               <a href="https://maps.google.com/maps?q=Av.+Pietro+Petri,+446,+Mairipor%C3%A3+-+SP" target="_blank" rel="noopener" className="btn btn-out">
