@@ -49,7 +49,7 @@ export default function Home() {
               Seu carro<br />nas <b>mãos certas</b>
             </h1>
             <p className="hero-sub">
-              Mecânica e auto-elétrica especializada em alta performance, perto de você.
+              Mecânica e auto-elétrica especializada em manutenção automotiva, perto de você.
             </p>
             <div className="hero-actions">
               <a href={WA_LINK} target="_blank" rel="noopener" className="btn btn-red btn-lg">
@@ -236,7 +236,7 @@ export default function Home() {
             <div className="r">
               <div className="sh">
                 <div className="lbl">Nossa história</div>
-                <h2>Há 10 anos fazendo seu<br /><em>veículo voltar à vida</em></h2>
+                <h2>Há 10 anos entregando o melhor<br /><em>para nossos clientes!</em></h2>
               </div>
               <p className="ab-txt">Cuidar do seu carro é cuidar da sua segurança, da sua rotina e da sua tranquilidade. E é exatamente com esse compromisso que o Centro Automotivo Terra Preta atua há mais de 10 anos em Mairiporã.</p>
               <p className="ab-txt">Aqui, cada veículo é tratado com cuidado e responsabilidade, como se fosse nosso. Trabalhamos com serviços completos de mecânica e auto elétrica, sempre prezando pela qualidade, transparência no diagnóstico e preços justos, sem surpresas no final.</p>
