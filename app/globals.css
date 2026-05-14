@@ -38,7 +38,7 @@ a{text-decoration:none;color:inherit}
 
 /* HERO */
 #hero{min-height:100svh;display:flex;align-items:center;position:relative;overflow:hidden;padding-top:68px;background:#090910}
-.hero-photo{position:absolute;inset:0;background:url('/img-fachada.jpeg') center 20%/cover no-repeat}
+.hero-photo{position:absolute;inset:0;background:url('/img-fachada.jpeg') 65% 15%/cover no-repeat}
 .hero-photo::after{content:'';position:absolute;inset:0;background:linear-gradient(to right,#090910 30%,rgba(9,9,16,.72) 55%,rgba(9,9,16,.20) 100%)}
 @keyframes glowPulse{0%,100%{opacity:.15}50%{opacity:.25}}
 .hero-glow{position:absolute;inset:0;background:radial-gradient(ellipse 55% 38% at 22% 0%,rgba(200,16,46,.5),transparent 65%);animation:glowPulse 6s ease-in-out infinite;pointer-events:none}
