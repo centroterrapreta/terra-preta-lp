@@ -315,7 +315,7 @@ export default function Home() {
           </div>
           <div className="fmap">
             <iframe
-              src="https://maps.google.com/maps?q=Rua+Ana+Jos%C3%A9+Miziaria,+45,+Terra+Preta,+Mairipor%C3%A3+SP&output=embed&hl=pt-BR"
+              src="https://maps.google.com/maps?q=-23.2647822,-46.5894283&output=embed&hl=pt-BR&z=17"
               width="100%"
               height="320"
               loading="lazy"
